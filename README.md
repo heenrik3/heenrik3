@@ -1,6 +1,6 @@
 [![Henrique Desenvolvedor.](https://i.imgur.com/Sc5NRkz.png)](https://henrique.vercel.app)
 
-Oi. Me chamo Henrique. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela UERJ.
+Oi 👋 Me chamo Henrique. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela UERJ.
 
 
 Estou dando meus primeiros passos como Desenvolvedor Web Full-Stack e nesse perfil você pode encontrar os códigos dos meus projetos que estão disponíveis no meu [site](https://henrique.vercel.app).
