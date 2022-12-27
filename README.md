@@ -1,4 +1,4 @@
-[![Henrique Desenvolvedor.](https://i.imgur.com/Sc5NRkz.png)](https://henrique.vercel.app)
+[![Henrique Desenvolvedor.](https://i.imgur.com/peVZzcM.png)](https://henrique.vercel.app) 
 
 Oi 👋 
 
