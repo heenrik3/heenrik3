@@ -30,5 +30,5 @@ Nesse perfil você pode encontrar os repositórios com os códigos dos meus proj
 Me chamo Henrique. 
 
 Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas pela UERJ.
-Estou dando meus primeiros passos como desenvolvedor e nessa jornada de 3 anos, já acumulo conhecimentos em stacks como React + Redux, Javascript, NodeJS, MongoDB, Mongoose e Express Framework.
+Estou dando meus primeiros passos como desenvolvedor e nessa jornada de 2 anos, já acumulo conhecimentos em stacks como React + Redux, Javascript, NodeJS, MongoDB, Mongoose e Express Framework.
 Minha pretensão é me tornar um desenvolvedor Web Full-Stack que molda e remolda a informação e que, de alguma forma, promova algum impacto e também ajude a sociedade.
