@@ -4,7 +4,6 @@ Oi 👋
 
 Nesse perfil você pode encontrar os repositórios com os códigos dos meus projetos que estão disponíveis no meu [site](https://henrique.vercel.app).
 
-
 ## <b>Programação e ferramentas</b>:
 
 
